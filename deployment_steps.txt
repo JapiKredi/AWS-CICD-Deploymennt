@@ -22,7 +22,7 @@ Login to AWS console.
 
 	
 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app
+    - Save the URI: 437094206696.dkr.ecr.us-east-1.amazonaws.com/simpler-app
 
 	
 4. Create EC2 machine (Ubuntu) 
